@@ -3,7 +3,7 @@ title: "ここにページのタイトル"
 author: default
 permalink: /
 ---
-⦿
+
 
 
 # 人気沸騰中！ストグラを観測しよう
@@ -13,7 +13,8 @@ grand theft auto 略してGTAというゲームをご存知でしょうか。一
 ### RP(ロールプレイング)が重要
 
 ## ⦿人気な住人(ストリーマー)
-###### 見出し6
+
+## 
 
 改行は、行末に半角スペースを2個いれる
 次の行
@@ -41,4 +42,4 @@ grand theft auto 略してGTAというゲームをご存知でしょうか。一
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](https://image.biccamera.com/img/00000003200003_A01.jpg?sr.dw=600&sr.jqh=60&sr.dh=600&sr.mat=1)
